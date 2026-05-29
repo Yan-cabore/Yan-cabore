@@ -1,46 +1,64 @@
-# Hi, I'm Carlos Yan! 👾
+<h1 align="center">Hi, I'm Carlos Yan! 👾</h1>
 
-🎓 **Computer Engineering** student at **IFCE**  
-🐍 **Python** enthusiast  
-🚀 Exploring the world of programming and software development  
-
-## About Me
-
-I'm beginning my journey in technology, developing my programming skills and building projects to put my knowledge into practice.
-
-## 🛠️ Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Knowledge
-
-- Programming logic
-- Version control with Git and GitHub
-- Python program development
-- Computer Engineering fundamentals
-
-## 📚 Currently Learning
-
-- Python
-- Algorithms and programming structures
-- Git and GitHub
-- Computer Science fundamentals
-
-## 🎯 Goals
-
-- Build personal projects
-- Improve my programming skills
-- Explore new areas of technology
-- Build a portfolio on GitHub
+<p align="center">
+  🎓 <strong>Computer Engineering</strong> student at <strong>IFCE</strong><br>
+  🐍 <strong>Python</strong> enthusiast<br>
+  🚀 Exploring programming, software development and new technologies
+</p>
 
 ---
 
-⭐ Building knowledge, one project at a time.
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student at **IFCE**, currently developing my programming skills and building projects to apply what I learn in practice.
+
+My main interest is **Python**, while I also explore **C**, development tools, databases and software development fundamentals.
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,docker,git,sqlite" />
+  </a>
+</p>
+
+---
+
+## 💡 Knowledge
+
+- Programming logic and algorithms
+- Python program development
+- Fundamentals of programming in C
+- Version control with Git
+- Basic database concepts with SQLite
+- Introduction to containerization with Docker
+- Computer Engineering fundamentals
+
+---
+
+## 📚 Currently Learning
+
+- Python and C programming
+- Algorithms and data structures
+- Git and GitHub workflows
+- Docker fundamentals
+- Databases with SQLite
+- Computer Engineering concepts
+
+---
+
+## 🎯 Goals
+
+- Build practical personal projects
+- Improve my programming and problem-solving skills
+- Expand my knowledge of software development
+- Explore databases and development tools
+- Build a solid portfolio on GitHub
+
+---
+
+<p align="center">
+  ⭐ Building knowledge, one project at a time.
+</p>
