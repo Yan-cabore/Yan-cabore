@@ -20,7 +20,7 @@ My main interest is **Python**, while I also explore **C**, development tools, d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,docker,git,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,c,docker,git,sqlite,linux" />
   </a>
 </p>
 
